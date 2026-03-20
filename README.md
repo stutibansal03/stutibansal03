@@ -7,8 +7,8 @@
 - SQL
 - Machine Learning
 
-## 🎯 Goal
-Looking for Summer 2026 Data Science Internship
+## 🎯 Open to
+Internships • Projects • Collaborations
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/stuti-bansal-510970332
