@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Stuti! 👋
 
-<!--
-**stutibansal03/stutibansal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- SQL
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+Looking for Summer 2026 Data Science Internship
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/stuti-bansal-510970332
+
+---
+*Building my data science journey, one step at a time!* 🚀
